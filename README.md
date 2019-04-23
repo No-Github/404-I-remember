@@ -44,6 +44,7 @@
 
 cool😎
 - https://dribbble.com/sdasdassadassa
+- http://project-euh.com/404/
 - http://hotdot.pro/en/404
 - https://nclud.com/404
 - https://lab.hakim.se/404
