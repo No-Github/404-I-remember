@@ -10,6 +10,8 @@
 ---
 
 有点意思
+- https://shimo.im/404
+- https://stackexchange.com/404
 - http://enstyled.com/404
 - https://weareblend.la/404
 - https://stackoverflow.com/404
