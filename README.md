@@ -10,6 +10,7 @@
 ---
 
 有点意思
+- https://xz.aliyun.com/404
 - https://shimo.im/404
 - https://stackexchange.com/404
 - http://enstyled.com/404
