@@ -5,7 +5,9 @@
 ---
 
 ## Manual
-`假如森林里有一棵树倒下了，但没有被人听到，那么它算是发出了声音吗？`
+
+> 假如森林里有一棵树倒下了，但没有被人听到，那么它算是发出了声音吗？
+
 - [The Chautauquan, June 1883, Volume 3, Issue 9, pg. 544](https://www.gutenberg.org/files/49705/49705-h/49705-h.htm)
 
 <p align="center">
@@ -13,7 +15,7 @@
 </p>
 
 所有网页备份由如下扩展制作:
-- SingleFileZ | [Github](https://github.com/gildas-lormeau/SingleFileZ) | [Chrome web store](https://chrome.google.com/webstore/detail/singlefilez/offkdfbbigofcgdokjemgjpdockaafjg) | [Firefox Add-ons website](https://addons.mozilla.org/firefox/addon/singlefilez)
+- SingleFileZ | [Github](https://github.com/gildas-lormeau/SingleFileZ) | [Chrome](https://chrome.google.com/webstore/detail/singlefilez/offkdfbbigofcgdokjemgjpdockaafjg) | [Firefox](https://addons.mozilla.org/firefox/addon/singlefilez)
 
 ---
 
