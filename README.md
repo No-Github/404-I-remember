@@ -1,9 +1,9 @@
 <p align="center">
-    <img src=".//img/logo.png">
+    <a href="https://no-github.github.io/404-I-remember/"><img src=".//img/logo.png">
 </p>
 
 ---
-
+https://no-github.github.io/404-I-remember/
 ## Manual
 `假如森林里有一棵树倒下了，但没有被人听到，那么它算是发出了声音吗？`
 - [The Chautauquan, June 1883, Volume 3, Issue 9, pg. 544](https://www.gutenberg.org/files/49705/49705-h/49705-h.htm)
@@ -13,13 +13,13 @@
 </p>
 
 所有网页备份由如下扩展制作:
-- gildas-lormeau/SingleFileZ | [Github](https://github.com/gildas-lormeau/SingleFileZ) | [Chrome web store](https://chrome.google.com/webstore/detail/singlefilez/offkdfbbigofcgdokjemgjpdockaafjg) | [Firefox Add-ons website](https://addons.mozilla.org/firefox/addon/singlefilez)
+- SingleFileZ - [Github](https://github.com/gildas-lormeau/SingleFileZ) - [Chrome web store](https://chrome.google.com/webstore/detail/singlefilez/offkdfbbigofcgdokjemgjpdockaafjg) - [Firefox Add-ons website](https://addons.mozilla.org/firefox/addon/singlefilez)
 
 ---
 
 # 有点意思
-- https://xz.aliyun.com/404 | [备份](./html/xz.aliyun.com.html)
-- https://shimo.im/404 | [备份](./html/shimo.im.html)
+- https://xz.aliyun.com/404 - [备份](./html/xz.aliyun.com.html)
+- https://shimo.im/404 - [备份](./html/shimo.im.html)
 - https://stackexchange.com/404
 - http://enstyled.com/404
 - https://weareblend.la/404
