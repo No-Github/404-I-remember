@@ -18,6 +18,7 @@
 ---
 
 # 有点意思
+
 | 网址                                           | 收录时间 | 在线备份                                  |
 | :--------------------------------------------- | :------: | :---------------------------------------- |
 | https://xz.aliyun.com/404                      | 2019-6-2 | [点我点我](./html/xz.aliyun.com.html)     |
@@ -44,6 +45,7 @@
 | http://www.tiqiuren.com/404                    | 2019-6-2 | [点我点我](./html/www.tiqiuren.com.html)  |
 
 # 现在插播一条GIF图系列
+
 | 网址                               | 收录时间 | 在线备份                                         |
 | :--------------------------------- | :------: | :----------------------------------------------- |
 | https://purplerockscissors.com/404 | 2019-6-2 | [点我点我](./html/purplerockscissors.com.htm)    |
@@ -53,6 +55,7 @@
 | https://adpearance.com/404         | 2019-6-2 | [随机GIF，没啥好备的](./html/xz.aliyun.com.html) |
 
 # cool😎
+
 | https://dribbble.com/sdasdassadassa
 | http://project-euh.com/404/
 | http://hotdot.pro/en/404
@@ -61,21 +64,26 @@
 | http://heyzap.com/404
 
 # 有图是真的任性
+
 | https://www.bilibili.com/404
 
 # 500也不是不行
+
 | https://github.com/500
 
 # 公益❤
+
 | https://qzone.qq.com/qzone
 | https://www.qq.com/404
 | https://wenwen.sogou.com/question/notFound.htm
 
 # 缅怀🕊
+
 | http://assets.dxycdn.com/core/error/404.html
 | https://www.damai.cn/404
 
 # 待分类
+
 | https://www.google.com/404
 | https://www.bloomberg.com/404
 | https://www.pixiv.net/404
@@ -96,4 +104,5 @@
 ---
 
 # Thanks to...
-| 灵感来自于[404-PageNotFound](https://github.com/lnfnunes/404-PageNotFound) 和 [Terminus2049](https://github.com/Terminus2049/Terminus2049.github.io)
+
+- 灵感来自于[404-PageNotFound](https://github.com/lnfnunes/404-PageNotFound) 和 [Terminus2049](https://github.com/Terminus2049/Terminus2049.github.io)
