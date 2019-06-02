@@ -3,7 +3,7 @@
 </p>
 
 ---
-https://no-github.github.io/404-I-remember/
+
 ## Manual
 `假如森林里有一棵树倒下了，但没有被人听到，那么它算是发出了声音吗？`
 - [The Chautauquan, June 1883, Volume 3, Issue 9, pg. 544](https://www.gutenberg.org/files/49705/49705-h/49705-h.htm)
