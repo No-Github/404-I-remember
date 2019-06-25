@@ -19,12 +19,23 @@
 
 # Awesome😎
 
-| 网址                                | 收录时间 | 在线备份                                        |
-| :---------------------------------- | :------: | :---------------------------------------------- |
-| https://dribbble.com/sdasdassadassa | 2019-6-2 | [情况特殊,无法备份](https://dribbble.com/sdasdassadassa) |
-| http://hotdot.pro/en/404            | 2019-6-2 | [情况特殊,无法备份](http://hotdot.pro/en/404)            |
-| https://nclud.com/404               | 2019-6-2 | [情况特殊,无法备份](https://nclud.com/404)               |
-| http://heyzap.com/404               | 2019-6-2 | [情况特殊,无法备份](http://heyzap.com/404)               |
+| 网址                                | 收录时间  | 在线备份                                                 |
+| :---------------------------------- | :-------: | :------------------------------------------------------- |
+| https://dribbble.com/sdasdassadassa | 2019-6-2  | [情况特殊,无法备份](https://dribbble.com/sdasdassadassa) |
+| http://hotdot.pro/en/404            | 2019-6-2  | [情况特殊,无法备份](http://hotdot.pro/en/404)            |
+| https://nclud.com/404               | 2019-6-2  | [情况特殊,无法备份](https://nclud.com/404)               |
+| http://colrd.com/404                | 2019-6-25 | [情况特殊,无法备份](http://colrd.com/404)                |
+
+
+# 现在是游戏时间
+
+| 网址                   | 收录时间  | 在线备份                                    |
+| :--------------------- | :-------: | :------------------------------------------ |
+| http://heyzap.com/404  | 2019-6-2  | [情况特殊,无法备份](http://heyzap.com/404)  |
+| https://linux.cn/404   | 2019-6-25 | [情况特殊,无法备份](https://linux.cn/404)   |
+| http://www.vice.cn/404 | 2019-6-25 | [情况特殊,无法备份](http://www.vice.cn/404) |
+
+
 
 # 有点意思
 
@@ -54,6 +65,14 @@
 | http://www.tiqiuren.com/404                    | 2019-6-2 | [点我点我](./html/www.tiqiuren.com.html)                                           |
 | http://project-euh.com/404/                    | 2019-6-2 | [点我点我](https://web.archive.org/web/20190602160525/http://project-euh.com/404/) |
 | https://lab.hakim.se/404                       | 2019-6-2 | [点我点我](https://web.archive.org/web/20190602161024/https://lab.hakim.se/404/)   |
+| http://wwwwwwww.limpfish.com/404               | 2019-6-2 | [点我点我](./html/wwwwwwww.limpfish.com.html)                                      |
+| http://homestarrunner.com/404                  | 2019-6-2 | [点我点我](./html/homestarrunner.com.html)                                         |
+| http://southpark.cc.com/404                    | 2019-6-2 | [点我点我](./html/southpark.cc.com.html)                                           |
+| http://www.larknews.com/404/5.html             | 2019-6-2 | [点我点我](./html/www.larknews.com.html)                                           |
+| https://www.boredpanda.com/5455ghjfg           | 2019-6-2 | [点我点我](./html/www.boredpanda.com.html)                                         |
+
+
+
 
 # 现在插播一条GIF图系列
 
@@ -79,11 +98,12 @@
 
 # 公益❤
 
-| 网址                                           | 收录时间 | 在线备份                                                   |
-| :--------------------------------------------- | :------: | :--------------------------------------------------------- |
-| https://qzone.qq.com/qzone                     | 2019-6-2 | [无法备份](https://qzone.qq.com/qzone)                     |
-| https://www.qq.com/404                         | 2019-6-2 | [点我点我](./html/www.qq.com.html)                         |
-| https://wenwen.sogou.com/question/notFound.htm | 2019-6-2 | [无法备份](https://wenwen.sogou.com/question/notFound.htm) |
+| 网址                                           | 收录时间  | 在线备份                                                   |
+| :--------------------------------------------- | :-------: | :--------------------------------------------------------- |
+| https://qzone.qq.com/qzone                     | 2019-6-2  | [无法备份](https://qzone.qq.com/qzone)                     |
+| https://www.qq.com/404                         | 2019-6-2  | [点我点我](./html/www.qq.com.html)                         |
+| https://wenwen.sogou.com/question/notFound.htm | 2019-6-2  | [无法备份](https://wenwen.sogou.com/question/notFound.htm) |
+| https://notfound.org/404                       | 2019-6-25 | [无法备份](https://notfound.org/404)                       |
 
 # 缅怀🕊
 
