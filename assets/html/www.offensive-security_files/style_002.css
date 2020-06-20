@@ -1,0 +1,63 @@
+/*
+Theme Name:     OffSec Child Theme
+Theme URI:      http://www.offsec.com/
+Description:    OffSec child theme so I can customize functions.php
+Author:         DigiP
+Author URI:     http://www.offsec.com/
+Template:       OffSec
+Version:        1.0
+*/
+
+/* Place all your CSS modifications below */
+
+#meta :target {
+line-height:305px;
+margin-bottom:-305px !important;
+display:inline-block;
+margin-top:-250px;
+position:relative;
+}
+
+#meta .toc {
+	min-height: auto !important;
+}
+
+#faqs {
+scroll-snap-type: mandatory;
+scroll-snap-type: y mandatory;
+scroll-behavior: smooth;
+}
+
+#faqs .is-active {
+background-color: #F2F2F2;
+scroll-behavior: smooth;
+min-height: 250px;
+scroll-snap-stop: always;
+scroll-snap-align: center;
+scroll-padding: 0px;
+display:block;
+}
+
+#faqs .is-active .accordion-content, #faqs .is-active > .accordion-title {
+margin-top:20px;
+padding:50px 30px 30px 30px;
+display:block;
+}
+
+#faqs .is-active > .accordion-title {
+position:relative;
+top: 30px;
+}
+
+#faqs, .accordion-item, .accordion-item .is-active {
+transition: all 2s ease;
+}
+
+/* overrides for OneTrust css */
+#optanon,#optanon *,#optanon div,#optanon span,#optanon ul,#optanon li,#optanon a,#optanon p,.optanon-alert-box-wrapper *{ 
+font-family: 'Open Sans', Arial, sans-serif !important;
+}
+
+.optanon-alert-box-wrapper {
+background: #f2f2f2 !important;
+}
