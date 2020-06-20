@@ -17,7 +17,7 @@
 
 ---
 
-[👇👇👇点击这里,网页访问在线备份](https://no-github.github.io/404-I-remember/)
+[👉👉👉点击这里,网页访问在线备份](https://no-github.github.io/404-I-remember/)
 
 ---
 
@@ -151,11 +151,11 @@
 | https://talosintelligence.com/vulnerability_reports/404  | [在线备份](https://no-github.github.io/404-I-remember/assets/html/talosintelligence.com.html)       |
 | https://www.crunchbase.com/404                           | [在线备份](https://no-github.github.io/404-I-remember/assets/html/www.crunchbase.com.html)          |
 | https://www.deepin.org/en/404                            | [在线备份](https://no-github.github.io/404-I-remember/assets/html/www.deepin.org.html)              |
-| https://www.offensive-security.com/pwk-online/aaa.doc    | [在线备份](https://no-github.github.io/404-I-remember/assets/html/www.offensive-security.com.html/) |
-| https://www.linkedin.com/404                             | [在线备份](https://no-github.github.io/404-I-remember/assets/html/www.linkedin.com.html/)           |
-| https://2.python-requests.org//en/master/api/#exceptions | [在线备份](https://no-github.github.io/404-I-remember/assets/html/2.python-requests.org.html/)      |
-| https://www.tiktok.com/404                               | [在线备份](https://no-github.github.io/404-I-remember/assets/html/www.tiktok.com.html/)             |
-| https://www.coresecurity.com/405                         | [在线备份](https://no-github.github.io/404-I-remember/assets/html/www.coresecurity.com.html/)       |
+| https://www.offensive-security.com/pwk-online/aaa.doc    | [在线备份](https://no-github.github.io/404-I-remember/assets/html/www.offensive-security.com.html)  |
+| https://www.linkedin.com/404                             | [在线备份](https://no-github.github.io/404-I-remember/assets/html/www.linkedin.com.html)            |
+| https://2.python-requests.org//en/master/api/#exceptions | [在线备份](https://no-github.github.io/404-I-remember/assets/html/2.python-requests.org.html)       |
+| https://www.tiktok.com/404                               | [在线备份](https://no-github.github.io/404-I-remember/assets/html/www.tiktok.com.html)              |
+| https://www.coresecurity.com/405                         | [在线备份](https://no-github.github.io/404-I-remember/assets/html/www.coresecurity.com.html)        |
 | https://fonts.google.com/404                             | [无法备份](https://fonts.google.com/404)                                                            |
 | https://giphy.com/404                                    | [无法备份](https://giphy.com/404)                                                                   |
 | https://slack.com/404                                    | [无法备份](https://slack.com/404)                                                                   |
